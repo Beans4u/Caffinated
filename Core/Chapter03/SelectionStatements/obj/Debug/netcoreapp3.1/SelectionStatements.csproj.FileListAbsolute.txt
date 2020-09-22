@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+D:\devproject\cBook\Core\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache

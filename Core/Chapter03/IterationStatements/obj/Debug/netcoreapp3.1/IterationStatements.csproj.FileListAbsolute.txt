@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter03\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.exe
+D:\devproject\cBook\Core\Chapter03\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.deps.json
+D:\devproject\cBook\Core\Chapter03\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter03\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter03\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.dll
+D:\devproject\cBook\Core\Chapter03\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.pdb
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.dll
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.pdb
+D:\devproject\cBook\Core\Chapter03\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.genruntimeconfig.cache

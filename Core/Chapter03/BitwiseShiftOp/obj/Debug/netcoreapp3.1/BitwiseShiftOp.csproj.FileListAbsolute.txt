@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\bin\Debug\netcoreapp3.1\BitwiseShiftOp.exe
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\bin\Debug\netcoreapp3.1\BitwiseShiftOp.deps.json
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\bin\Debug\netcoreapp3.1\BitwiseShiftOp.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\bin\Debug\netcoreapp3.1\BitwiseShiftOp.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\bin\Debug\netcoreapp3.1\BitwiseShiftOp.dll
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\bin\Debug\netcoreapp3.1\BitwiseShiftOp.pdb
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.dll
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.pdb
+D:\devproject\cBook\Core\Chapter03\BitwiseShiftOp\obj\Debug\netcoreapp3.1\BitwiseShiftOp.genruntimeconfig.cache

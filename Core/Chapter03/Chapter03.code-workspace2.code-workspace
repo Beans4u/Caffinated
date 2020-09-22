@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "BooleanOperators"
+		},
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "BitwiseShiftOp"
+		},
+		{
+			"path": "SelectionStatements"
+		},
+		{
+			"path": "IterationStatements"
+		},
+		{
+			"path": "CastingConverting"
+		}
+	],
+	"settings": {}
+}

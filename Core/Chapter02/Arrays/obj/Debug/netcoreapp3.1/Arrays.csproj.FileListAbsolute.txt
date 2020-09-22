@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\devproject\cBook\Core\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\devproject\cBook\Core\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\devproject\cBook\Core\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\devproject\cBook\Core\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

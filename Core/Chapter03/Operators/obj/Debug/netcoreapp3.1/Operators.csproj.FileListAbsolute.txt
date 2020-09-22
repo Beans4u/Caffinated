@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+D:\devproject\cBook\Core\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+D:\devproject\cBook\Core\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+D:\devproject\cBook\Core\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+D:\devproject\cBook\Core\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

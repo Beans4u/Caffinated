@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+D:\devproject\cBook\Core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+D:\devproject\cBook\Core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+D:\devproject\cBook\Core\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+D:\devproject\cBook\Core\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache

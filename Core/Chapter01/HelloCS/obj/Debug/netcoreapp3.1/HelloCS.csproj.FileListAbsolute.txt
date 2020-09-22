@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+D:\devproject\cBook\Core\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+D:\devproject\cBook\Core\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+D:\devproject\cBook\Core\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+D:\devproject\cBook\Core\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache

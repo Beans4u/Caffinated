@@ -1,0 +1,13 @@
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+D:\devproject\cBook\Core\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+D:\devproject\cBook\Core\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+D:\devproject\cBook\Core\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+D:\devproject\cBook\Core\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+D:\devproject\cBook\Core\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+D:\devproject\cBook\Core\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+D:\devproject\cBook\Core\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache
