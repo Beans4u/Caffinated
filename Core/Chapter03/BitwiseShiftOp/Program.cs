@@ -17,7 +17,7 @@ namespace BitwiseShiftOp
             WriteLine($"a ^ b = {a ^ b}"); //8 and 4-bit columns
 
             // 0101 0000 left-shift a by three bit columns
-            WriteLine($"a << 3 {a << 3}");
+            WriteLine($"a << 3 = {a << 3}");
 
             // multiply a by 8
             WriteLine($"a * 8 = {a * 8}");
