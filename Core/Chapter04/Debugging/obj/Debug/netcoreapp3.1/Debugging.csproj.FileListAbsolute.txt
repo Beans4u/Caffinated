@@ -1,0 +1,13 @@
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\Book One\Documents\devprojects\coreBook\c-sharp-book\Core\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache
