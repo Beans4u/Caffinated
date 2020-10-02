@@ -1,12 +1,26 @@
 ﻿using System;
+using static System.Console;
+using SharpPad;
+using System.Threading.Tasks;
 
 namespace Dumping
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var complexObject = new
+            {
+                FirstName = "Petr",
+                BirthDate = new DateTime(
+                    year: 1972, month: 12, day: 25),
+                Friends = new[] { "Amir", "Geoff", "Sal" }
+            };
+
+            WriteLine(
+                $"Dumping {nameof(complexObject)} to SharpPad.");
+            
+            await complexObject.Dump();
         }
     }
 }
