@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "wToIN6fkq8EBz7Y/y2+Rnft3AfMObwejeu/2OUUwTNXewXHbXv4VwxNFF7KYVsNbbb4Tk14GT3A7ebs4pXvu3A==",
+  "dgSpecHash": "2d7idaGKik+omGNM5loq5l4LJvo8MlRntvURZT0U++G2WwLRyafCLEWUcIWSgtvmzLK5MTjo0OxTVgCCJaejzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Book One\\Documents\\devprojects\\coreBook\\c-sharp-book\\Core\\Chapter04\\Instrumenting\\Instrumenting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.8\\microsoft.extensions.configuration.fileextensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.8\\microsoft.extensions.configuration.json.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.8\\microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.8\\microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
   "logs": []
 }
