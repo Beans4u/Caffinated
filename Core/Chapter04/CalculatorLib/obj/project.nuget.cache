@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sY2g0/WRht2MRapOE0YHH4pb2f5Sbp44/CHUGIR1Aw5XL7tzS7VJB9EFzZW8Gu39Js9RM2gj0t4ZzoLvzOlPEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Book One\\Documents\\devprojects\\coreBook\\c-sharp-book\\Core\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Book One\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Book One\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
